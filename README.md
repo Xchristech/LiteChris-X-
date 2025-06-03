@@ -1,10 +1,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SPARK%20MD%20VERSION%201.2&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=LITECHRIS%20MD%20VERSION%201.2&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Xchristech">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=LiteChris+X+𝐁𝐨𝐭;𝐁𝐞𝐬𝐭+𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝+𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩+𝐁𝐨𝐭;𝐒𝐭𝐚𝐫+𝐀𝐧𝐝+𝐅𝐨𝐫𝐤+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨+✰" alt="voltagefx12">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=LiteChris+X+𝐁𝐨𝐭;𝐁𝐞𝐬𝐭+𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝+𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩+𝐁𝐨𝐭;𝐒𝐭𝐚𝐫+𝐀𝐧𝐝+𝐅𝐨𝐫𝐤+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨+✰" alt="Xchristech">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/Xchristech"><img title="Developer" src="https://img.shields.io/badge/Author-Lord Voltage-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Xchristech"><img title="Developer" src="https://img.shields.io/badge/Author-Chris Gaaju-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -92,7 +92,7 @@
  
 <a href="https://wa.me/2348069675806"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://www.tiktok.com/@voltagefx6_?_t=ZM-8wciLQsKN7t&_r=1&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61569899172881&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://lynk.id/voltagefx6"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61569899172881&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://lynk.id/Chrisgaaju"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a>
 </p>
  <br>
 <h2 align="center"> ᴡᴀʀɴɪɴɢ
