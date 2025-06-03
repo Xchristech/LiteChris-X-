@@ -32,7 +32,7 @@
 
 𝒇𝒐𝒓𝒌 𝒕𝒉𝒊𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝒕𝒐 𝒚𝒐𝒖𝒓 𝒈𝒊𝒕𝒉𝒖𝒃 𝒂𝒄𝒄𝒐𝒖𝒏𝒕☟:
 
-  <a href="https://github.com/Xchristech/LiteChris-X/fork"><img title="sᴘᴀʀᴋ ᴍᴅ ʙᴏᴛ" src="https://img.shields.io/badge/Fork-Lite%20X-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Xchristech/LiteChris-X-/fork"><img title="sᴘᴀʀᴋ ᴍᴅ ʙᴏᴛ" src="https://img.shields.io/badge/Fork-Lite%20X-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ? 
 
