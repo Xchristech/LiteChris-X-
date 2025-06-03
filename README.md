@@ -1,16 +1,16 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=LITECHRIS%20X%20VERSION%201.2&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=LITECHRIS%20X%20VERSION%201.4&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Xchristech">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=LiteChris+X+𝐁𝐨𝐭;𝐁𝐞𝐬𝐭+𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝+𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩+𝐁𝐨𝐭;𝐒𝐭𝐚𝐫+𝐀𝐧𝐝+𝐅𝐨𝐫𝐤+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨+✰" alt="Xchristech">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=𝐋𝐢𝐭𝐞𝐂𝐡𝐫𝐢𝐬+𝐗+𝐁𝐨𝐭;𝐁𝐞𝐬𝐭+𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝+𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩+𝐁𝐨𝐭;𝐒𝐭𝐚𝐫+𝐀𝐧𝐝+𝐅𝐨𝐫𝐤+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨+✰" alt="Xchristech">
   </a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/Xchristech"><img title="Dev" src="https://files.catbox.moe/711nnk.png"></a>
+<a href="https://github.com/Xchristech"><img title="Dev" src="https://files.catbox.moe/exmz6a.jpg"></a>
 
 
 
@@ -75,7 +75,7 @@
 ## sᴘᴀʀᴋ ᴍᴅ ᴄᴏɴᴛᴀᴄᴛ ᴛᴇᴀᴍ
 
  <a href="https://github.com/Xchristech">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=LiteChris+X+𝐁𝐨𝐭;𝐒𝐭𝐚𝐫+𝐀𝐧𝐝+𝐅𝐨𝐫𝐤+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨+♡;𝐅𝐨𝐥𝐥𝐨𝐰+𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬+𝐓𝐨+𝐒𝐮𝐩𝐩𝐨𝐫𝐭+𝐔𝐬+♡" alt="Xch">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=𝐋𝐢𝐭𝐞𝐂𝐡𝐫𝐢𝐬+𝐗+𝐁𝐨𝐭;𝐒𝐭𝐚𝐫+𝐀𝐧𝐝+𝐅𝐨𝐫𝐤+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨+♡;𝐅𝐨𝐥𝐥𝐨𝐰+𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬+𝐓𝐨+𝐒𝐮𝐩𝐩𝐨𝐫𝐭+𝐔𝐬+♡a" alt="Xch">
   </a>
 
 <p align="center">
