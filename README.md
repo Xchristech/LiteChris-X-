@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=LITECHRIS%20MD%20VERSION%201.2&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=LITECHRIS%20X%20VERSION%201.2&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Xchristech">
@@ -32,7 +32,7 @@
 
 𝒇𝒐𝒓𝒌 𝒕𝒉𝒊𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝒕𝒐 𝒚𝒐𝒖𝒓 𝒈𝒊𝒕𝒉𝒖𝒃 𝒂𝒄𝒄𝒐𝒖𝒏𝒕☟:
 
-  <a href="https://github.com/Xchristech/LiteChris-X/fork"><img title="sᴘᴀʀᴋ ᴍᴅ ʙᴏᴛ" src="https://img.shields.io/badge/Fork-Lite%20md-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Xchristech/LiteChris-X/fork"><img title="sᴘᴀʀᴋ ᴍᴅ ʙᴏᴛ" src="https://img.shields.io/badge/Fork-Lite%20X-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ? 
 
