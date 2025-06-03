@@ -91,7 +91,7 @@
 </p> 
  
 <a href="https://wa.me/2348069675806"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://www.tiktok.com/@voltagefx6_?_t=ZM-8wciLQsKN7t&_r=1&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.tiktok.com/@Xchristech_?_t=ZM-8wciLQsKN7t&_r=1&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
   <a href="https://www.facebook.com/profile.php?id=61569899172881&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://lynk.id/Chrisgaaju"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a>
 </p>
  <br>
